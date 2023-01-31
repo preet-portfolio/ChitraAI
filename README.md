@@ -1,4 +1,9 @@
 # ChitraAI
+<video width="500" height="400" controls>
+  <source src="https://player.vimeo.com/external/368782010.sd.mp4?s=a1478e7348ee04a92761efb2a0420e5750604c38&profile_id=164&oauth2_token_id=57447761" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 Welcome to ChitraAI, a project that is a clone of the popular DALL-E AI using the Vite framework, React JavaScript, and Tailwind CSS.
 
