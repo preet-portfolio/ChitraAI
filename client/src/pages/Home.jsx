@@ -67,7 +67,7 @@ const Home = () => {
         </h1>
         <p className="mt-2 text-[#666e75] text-[16px] maw-w-[500px]">
           Browse through a collection of imagiantive and visually stunning
-          images genrated by Dall-E AI.
+          images genrated by Chitra AI.
         </p>
       </div>
 
