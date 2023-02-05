@@ -1,6 +1,6 @@
 # ChitraAI
 
-Selcome to ChitraAI, a project that is a clone of the popular DALL-E AI using the Vite framework, React JavaScript, and Tailwind CSS.
+Welcome to ChitraAI, a project that is a clone of the popular DALL-E AI using the Vite framework, React JavaScript, and Tailwind CSS.
 
 As a student studying Interactive Design, I have always been fascinated by the potential of AI and its ability to create unique and interesting visuals. That's why I was particularly drawn to the DALL-E AI, and I wanted to create my own version of it that I could use for my own projects and experiments.
 
